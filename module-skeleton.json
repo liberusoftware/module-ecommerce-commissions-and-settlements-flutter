@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-commissions-and-settlements-flutter",
+  "capabilityKey": "planned:ecommerce:commissions-and-settlements",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_commissions_and_settlements_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/commissions-and-settlements.md",
+  "presentationPlan": "projects/ecommerce/flutter/commissions-and-settlements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
